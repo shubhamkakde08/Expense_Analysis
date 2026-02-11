@@ -99,8 +99,8 @@ You can download the full Power BI file from this repository and explore interac
 
 ## 👨‍💻 Developed By
 
-**SAPL ERP**  
-📊 Power BI Developer | SQL Developer | ERP Analytics  
+**Shubham Kakde**  
+📊 ERP Project Manager | SQL Developer | ERP Analytics |
 
 ---
 
