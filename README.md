@@ -12,6 +12,11 @@ This interactive **Expense Analysis Dashboard** provides complete financial insi
 ✔ Monthly Trends  
 ✔ Expense Category Analysis  
 
+
+## 🖼 Dashboard Preview
+https://github.com/user-attachments/assets/87bb0d19-97e0-4fda-940b-cc23653258b4
+
+
 ---
 
 ## 🖼 Dashboard Preview
